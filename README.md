@@ -16,6 +16,9 @@ If this program is a success it could help other universities run races and othe
 ### UBC Rec Discord Bot
 Because one bot was not enough 😏, working on a new bot for our eSports league.
 
+### HORS -> [Take a Look](https://github.com/JPGarCar/HORS)👀
+Making a few improvements and chaning its hosting for the new IMMUNS team.
+
 ## 🌱 I’m currently learning:
 - JS 👀
 - Flutter 🤩
