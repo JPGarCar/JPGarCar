@@ -20,7 +20,7 @@ Because one bot was not enough 😏, working on a new bot for our eSports league
 Making a few improvements and chaning its hosting for the new IMMUNS team.
 
 ## 🌱 I’m currently learning:
-- JS 👀
+- JS 😎
 - Flutter 🤩
 - react 🤺
 - mongoDB 🥭
