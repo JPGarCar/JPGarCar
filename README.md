@@ -12,8 +12,8 @@ It was very succesfull at both [HackCamp](https://hackcamp.nwplus.io/) and [nwHa
 My first major Java project, was scheduled to be used in production for May 2020 but Covi-19 ruined our plans 😢. However, this gives me more time to improve the software.
 If this program is a success it could help other universities run races and other rally like events with ease and for free!
 
-![alt text](https://img.shields.io/github/last-commit/JPGarCar/StormTheWallTimingApp?style=plastic)
-### UBC Rec Discord Bot
+![alt text](https://img.shields.io/github/last-commit/JPGarCar/StormTheWallTimingApp?style=plastic)👀
+### UBC Rec Discord Bot -> [Take a Look](https://github.com/JPGarCar/ubc-rec-esports-discord-bot)
 Because one bot was not enough 😏, working on a new bot for our eSports league.
 
 ### HORS -> [Take a Look](https://github.com/JPGarCar/HORS)👀
@@ -22,6 +22,8 @@ Making a few improvements and chaning its hosting for the new IMMUNS team.
 ## 🌱 I’m currently learning:
 - JS 👀
 - Flutter 🤩
+- react 🤺
+- mongoDB 🥭
 
 ## ⚡ Fun fact:
 - I play the cello 🎻
