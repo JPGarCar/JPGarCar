@@ -11,10 +11,9 @@ It was very succesfull at both [HackCamp](https://hackcamp.nwplus.io/) and [nwHa
 ### UBC Rec IM Timing App -> [Take a Look](https://github.com/JPGarCar/StormTheWallTimingApp)👀
 My first major Java project, was scheduled to be used in production for May 2020 but Covi-19 ruined our plans 😢. However, this gives me more time to improve the software.
 If this program is a success it could help other universities run races and other rally like events with ease and for free!
+I have started working on version 2.0. It is now a web application powered by Flutter take a [look](https://github.com/JPGarCar/stw_timing_web_app)
 
 ![alt text](https://img.shields.io/github/last-commit/JPGarCar/StormTheWallTimingApp?style=plastic)
-### UBC Rec Discord Bot -> [Take a Look](https://github.com/JPGarCar/ubc-rec-esports-discord-bot)👀
-Because one bot was not enough 😏, working on a new bot for our eSports league.
 
 ### HORS -> [Take a Look](https://github.com/JPGarCar/HORS)👀
 Making a few improvements and chaning its hosting for the new IMMUNS team.
@@ -22,8 +21,8 @@ Making a few improvements and chaning its hosting for the new IMMUNS team.
 ## 🌱 I’m currently learning:
 - JS 😎
 - Flutter 🤩
-- react 🤺
 - mongoDB 🥭
+- PHP 🤺
 
 ## ⚡ Fun fact:
 - I play the cello 🎻
